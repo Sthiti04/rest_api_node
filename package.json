@@ -1,0 +1,23 @@
+{
+  "name": "rest_api_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sthiti04/rest_api_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sthiti04/rest_api_node/issues"
+  },
+  "homepage": "https://github.com/Sthiti04/rest_api_node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.6.4"
+  }
+}
